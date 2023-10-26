@@ -17,6 +17,9 @@
       },
       "api": {
         "awstestproject": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
